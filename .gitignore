@@ -1,0 +1,13 @@
+# Dependency directory
+node_modules
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Build
+dist
+
+

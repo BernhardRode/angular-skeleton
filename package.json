@@ -1,0 +1,32 @@
+{
+  "name": "angular-skeleton",
+  "version": "0.0.1",
+  "description": "A simple angular app skeleton.",
+  "main": "app.js",
+  "scripts": {
+    "test": "brocoli test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BernhardRode/angular-skeleton.git"
+  },
+  "keywords": [
+    "broccolijs",
+    "angularjs"
+  ],
+  "author": "Bernhard Rode",
+  "license": "Apache License Version 2.0",
+  "bugs": {
+    "url": "https://github.com/BernhardRode/angular-skeleton/issues"
+  },
+  "homepage": "https://github.com/BernhardRode/angular-skeleton",
+  "devDependencies": {
+    "broccoli": "^0.16.0",
+    "broccoli-merge-trees": "^0.2.1",
+    "broccoli-sass": "^0.6.4",
+    "broccoli-typescript": "^0.4.0"
+  },
+  "dependencies": {
+    "angular": "^1.3.15"
+  }
+}
